@@ -52,7 +52,7 @@ A line graph showing average trip volume per day across each hour of the day.
 ### 🔹 5. Route Paths by Direction and ID
 Bus routes mapped with different colors representing different lines across Vancouver.
 
-![Route Lines Map](https://chat.openai.com/mnt/data/transportation%20visualization%20outputs(6).png)
+https://github.com/Akhil1sharma/Smart-City-Project/blob/main/Outputs/transportation%20visualization%20outputs%20(2).png
 
 ---
 
