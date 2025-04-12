@@ -45,4 +45,10 @@ The dataset includes multiple dimensions of transit data:
 - Deploy as a **web dashboard** for public use
 
 ---
-
+## screenshots
+![Image](https://github.com/user-attachments/assets/a3684555-6cb5-4d8d-8484-1d03bb87bd67)
+![Image](https://github.com/user-attachments/assets/de80a2ac-99f7-4de0-9547-f01138d306db)
+![Image](https://github.com/user-attachments/assets/7bb02461-3314-48f3-8068-21704f79b67d)
+![Image](https://github.com/user-attachments/assets/4cd69d22-689e-4617-b3c3-6bf2e529fc1e)
+![Image](https://github.com/user-attachments/assets/bfc67a51-13e3-4653-b739-4575ba6f5fad)
+![Image](https://github.com/user-attachments/assets/b3200de1-4209-447d-af4b-3176141c16e2)
